@@ -22,8 +22,8 @@ const IPAddress outIp(192, 168, 1, 212);     // IP of Mixer
 const unsigned int outPort = 10023;       //10024 for XR18   // remote port to receive OSC
 const unsigned int localPort = 10023;    //10024 or XR18    // local port to listen for OSC packets 
 
-#define STASSID "WifiNode"
-#define STAPSK "lola1124"
+#define STASSID "Wifixxxxxxx"
+#define STAPSK "xxxxxxx"
 
 // Set Static IP address
 IPAddress local_IP(192, 168, 1, 222);
