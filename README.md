@@ -20,9 +20,13 @@ You can change the "Bus #" page headings if you want (search for *?* and Change 
 It'w possible to add another Page for Bus 6 (With some copy paste in the code)
 Adding additional Channel sliders would be possible but require significnat coding changes. 
 
-XR 18 OSC commands are foudn here: 
+Testing can be done with the X32 Emulator (here: https://sites.google.com/site/patrickmaillot/x32  )
+
+XR 18 OSC commands are found here: 
 https://behringer.world/wiki/doku.php?id=x-air_osc
 
 X32 
 https://tostibroeders.nl/wp-content/uploads/2020/02/X32-OSC.pdf 
 This document also very helpful if wanting to customize this code...
+
+Thank you Thomas Friedrichsmeier (the EmbAJAX author) and Patrick Maillot (Author of X32 Emulator and many others) for their assistance.  
