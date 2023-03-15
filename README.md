@@ -1,4 +1,4 @@
-# Arduino WiFi control of XR18 Buses for IEM
+# Arduino control of XR18 Buses for IEM
 OSC based browser control for XR 18 Bus 1-5 for Individual remote control of in-ear monitor mix
 
 Uses ESP-8266 wifi (or Mega 2560 with Ethernet Sheild) board to remote control Behringer XR-18 (or X32) with OSC commands via UDP over wireless.  
